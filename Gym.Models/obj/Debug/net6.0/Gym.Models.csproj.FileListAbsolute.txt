@@ -1,0 +1,12 @@
+E:\College Project\GymShopping\Gym.Models\bin\Debug\net6.0\Gym.Models.deps.json
+E:\College Project\GymShopping\Gym.Models\bin\Debug\net6.0\Gym.Models.dll
+E:\College Project\GymShopping\Gym.Models\bin\Debug\net6.0\Gym.Models.pdb
+E:\College Project\GymShopping\Gym.Models\obj\Debug\net6.0\Gym.Models.csproj.AssemblyReference.cache
+E:\College Project\GymShopping\Gym.Models\obj\Debug\net6.0\Gym.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\College Project\GymShopping\Gym.Models\obj\Debug\net6.0\Gym.Models.AssemblyInfoInputs.cache
+E:\College Project\GymShopping\Gym.Models\obj\Debug\net6.0\Gym.Models.AssemblyInfo.cs
+E:\College Project\GymShopping\Gym.Models\obj\Debug\net6.0\Gym.Models.csproj.CoreCompileInputs.cache
+E:\College Project\GymShopping\Gym.Models\obj\Debug\net6.0\Gym.Models.dll
+E:\College Project\GymShopping\Gym.Models\obj\Debug\net6.0\refint\Gym.Models.dll
+E:\College Project\GymShopping\Gym.Models\obj\Debug\net6.0\Gym.Models.pdb
+E:\College Project\GymShopping\Gym.Models\obj\Debug\net6.0\ref\Gym.Models.dll

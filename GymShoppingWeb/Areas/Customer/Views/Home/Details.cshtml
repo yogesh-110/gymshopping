@@ -1,0 +1,49 @@
+﻿@model ShoppingCart
+
+<form method="post">
+    <input hidden asp-for="ProductId" />
+    <div class="card shadow border-0 mt-4">
+        <div class="card-body">
+            <div class="py-3">
+                <div class="row">
+                    <div class="col-12 col-lg-3 offset-lg-1 text-center mb-3">
+                        <img src="@Model.Product.ImageUrl" width="100%" class="rounded" />                       
+                    </div>
+                    <div class="col-12 col-lg-6 offset-lg-1">
+                        <h4 class="text-white text-uppercase">@Model.Product.Name</h4>
+                        <div class="row ps-2">
+                            <h6 class="text-dark text-opacity-50  pb-2 text-white">
+                                 Price:
+                                <span class=" text-white">
+                                    @Model.Product.Price
+                                </span>
+                            </h6>
+                            <h6 class="text-dark text-opacity-50  pb-2 text-white">
+                                DiscountPrice:
+                                <span class=" text-white">
+                                    @Model.Product.DiscountPrice
+                                </span>
+                            </h6>
+                            <p class=" lh-sm">Description:@Html.Raw(@Model.Product.Description)</p>
+                            <div class="input-group mb-3">
+                                <input asp-for="Count" />
+                            </div>
+                            <div class="row">
+                            <div class="col-6 ">
+                                
+                                <a class="btn btn-success form-control d-flex justify-content-center align-items-center" style="height:50px" asp-action="Index">Back To Home</a>
+                            </div>
+                            <div class="col-6">
+                            <button type="submit" value="Add TO Cart" class="btn btn-primary form-control" style="height:50px">
+                                Add To Cart
+                               
+                            </button>
+                                </div>
+                            </div>
+                        </div>                       
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

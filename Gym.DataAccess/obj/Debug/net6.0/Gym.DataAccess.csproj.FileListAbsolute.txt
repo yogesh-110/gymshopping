@@ -1,0 +1,17 @@
+E:\College Project\GymShopping\Gym.DataAccess\bin\Debug\net6.0\Gym.DataAccess.deps.json
+E:\College Project\GymShopping\Gym.DataAccess\bin\Debug\net6.0\Gym.DataAccess.dll
+E:\College Project\GymShopping\Gym.DataAccess\bin\Debug\net6.0\Gym.DataAccess.pdb
+E:\College Project\GymShopping\Gym.DataAccess\bin\Debug\net6.0\Gym.Models.dll
+E:\College Project\GymShopping\Gym.DataAccess\bin\Debug\net6.0\Gym.Models.pdb
+E:\College Project\GymShopping\Gym.DataAccess\obj\Debug\net6.0\Gym.DataAccess.csproj.AssemblyReference.cache
+E:\College Project\GymShopping\Gym.DataAccess\obj\Debug\net6.0\Gym.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\College Project\GymShopping\Gym.DataAccess\obj\Debug\net6.0\Gym.DataAccess.AssemblyInfoInputs.cache
+E:\College Project\GymShopping\Gym.DataAccess\obj\Debug\net6.0\Gym.DataAccess.AssemblyInfo.cs
+E:\College Project\GymShopping\Gym.DataAccess\obj\Debug\net6.0\Gym.DataAccess.csproj.CoreCompileInputs.cache
+E:\College Project\GymShopping\Gym.DataAccess\obj\Debug\net6.0\Gym.DataAccess.csproj.CopyComplete
+E:\College Project\GymShopping\Gym.DataAccess\obj\Debug\net6.0\Gym.DataAccess.dll
+E:\College Project\GymShopping\Gym.DataAccess\obj\Debug\net6.0\refint\Gym.DataAccess.dll
+E:\College Project\GymShopping\Gym.DataAccess\obj\Debug\net6.0\Gym.DataAccess.pdb
+E:\College Project\GymShopping\Gym.DataAccess\obj\Debug\net6.0\ref\Gym.DataAccess.dll
+E:\College Project\GymShopping\Gym.DataAccess\bin\Debug\net6.0\Gym.DataAccess.runtimeconfig.json
+E:\College Project\GymShopping\Gym.DataAccess\obj\Debug\net6.0\Gym.DataAccess.genruntimeconfig.cache

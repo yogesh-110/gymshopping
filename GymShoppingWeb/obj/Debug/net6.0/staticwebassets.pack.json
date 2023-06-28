@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GymShoppingWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GymShoppingWeb.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\09a74093-85b0-48ec-87c3-414850b02bcb.mp4",
+      "PackagePath": "staticwebassets\\Images\\Products\\09a74093-85b0-48ec-87c3-414850b02bcb.mp4"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\1bd6ac5a-5b9a-4871-b65c-d87ea1009dc5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\1bd6ac5a-5b9a-4871-b65c-d87ea1009dc5.jpg"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\325a0988-f53c-4c94-a056-e855d33d5419.mp4",
+      "PackagePath": "staticwebassets\\Images\\Products\\325a0988-f53c-4c94-a056-e855d33d5419.mp4"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\3de303e8-fc04-410d-b799-0be3537dad28.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\3de303e8-fc04-410d-b799-0be3537dad28.jpg"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\517c234f-9fc0-461a-aa77-d8017b2953f6.mp4",
+      "PackagePath": "staticwebassets\\Images\\Products\\517c234f-9fc0-461a-aa77-d8017b2953f6.mp4"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\567c4cc3-5112-4a68-aa75-b79948dafce1.mp4",
+      "PackagePath": "staticwebassets\\Images\\Products\\567c4cc3-5112-4a68-aa75-b79948dafce1.mp4"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\6383a917-f328-47cc-aa45-09c67e685e18.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\6383a917-f328-47cc-aa45-09c67e685e18.jpg"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\7db21308-64a2-4365-8b08-49cfaf34f94a.mp4",
+      "PackagePath": "staticwebassets\\Images\\Products\\7db21308-64a2-4365-8b08-49cfaf34f94a.mp4"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\82e373c0-d8e3-4761-9858-91596181c5e7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\82e373c0-d8e3-4761-9858-91596181c5e7.jpg"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\92749d4a-4708-4f6a-b834-724889f3584f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\92749d4a-4708-4f6a-b834-724889f3584f.jpg"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\956c47ea-979c-4b6d-887d-85d4e512599b.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\956c47ea-979c-4b6d-887d-85d4e512599b.jpg"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\99efc7a4-e419-4fda-a0f0-162d2db3df7d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\99efc7a4-e419-4fda-a0f0-162d2db3df7d.jpg"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\aee5f3e3-b002-4153-8e4d-6c7179f6c064.mp4",
+      "PackagePath": "staticwebassets\\Images\\Products\\aee5f3e3-b002-4153-8e4d-6c7179f6c064.mp4"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\b7535ecd-316d-4259-84e5-a66c98687ffd.mp4",
+      "PackagePath": "staticwebassets\\Images\\Products\\b7535ecd-316d-4259-84e5-a66c98687ffd.mp4"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\ca572d30-2430-4836-87d9-60b8dd36e78c.mp4",
+      "PackagePath": "staticwebassets\\Images\\Products\\ca572d30-2430-4836-87d9-60b8dd36e78c.mp4"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\Images\\Products\\d8014547-3a22-48bd-bf81-90f26a183205.mp4",
+      "PackagePath": "staticwebassets\\Images\\Products\\d8014547-3a22-48bd-bf81-90f26a183205.mp4"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\js\\Company.js",
+      "PackagePath": "staticwebassets\\js\\Company.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\College Project\\GymShopping\\GymShoppingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GymShoppingWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GymShoppingWeb.props",
+      "PackagePath": "build\\GymShoppingWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GymShoppingWeb.props",
+      "PackagePath": "buildMultiTargeting\\GymShoppingWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GymShoppingWeb.props",
+      "PackagePath": "buildTransitive\\GymShoppingWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
