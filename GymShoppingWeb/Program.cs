@@ -19,6 +19,8 @@ namespace GymShoppingWeb
             builder.Services.AddControllersWithViews();
              builder.Services.AddDbContext<ApplicationDbContext>(options => options
                 .UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            builder.Services.AddDbContext<ApplicationDbContext>(options => options
+               .UseSqlServer(builder.Configuration.GetConnectionString("ApplicationDbContextConnection")));
             builder.Services.Configure<StripeSetting>(builder.Configuration.GetSection("Stripe"));
 
                         builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddDefaultTokenProviders()
@@ -33,6 +35,7 @@ namespace GymShoppingWeb
                 options.LogoutPath = $"/Identity/Account/Logout";
                 options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
             });
+         
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

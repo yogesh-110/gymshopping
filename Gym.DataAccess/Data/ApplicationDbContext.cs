@@ -1,4 +1,5 @@
 ﻿using Gym.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -21,5 +22,10 @@ namespace Gym.DataAccess.Data
         public DbSet<ShoppingCart> Carts { get; set; }
         public DbSet<OrderHeader> OrderHeaders { get; set; }
         public DbSet<OrderDetail> OrderDetails { get; set; }
+
+       
+
     }
+
+
 }

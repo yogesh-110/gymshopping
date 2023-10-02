@@ -1,12 +1,15 @@
 ﻿using Gym.DataAccess.Repository.IRepository;
 using Gym.Models;
 using Gym.Models.ViewModel;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace GymShoppingWeb.Areas.Admin.Controllers;
      [Area("Admin")]
-     public class CompanyController : Controller
+[Authorize(Roles = "Admin")]
+
+public class CompanyController : Controller
 
      { 
         private readonly IUnitOfWork _unitOfWork;

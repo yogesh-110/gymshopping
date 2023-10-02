@@ -1,9 +1,12 @@
 ﻿using Gym.DataAccess.Repository.IRepository;
 using Gym.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GymShoppingWeb.Areas.Admin.Controllers;
+   
  [Area("Admin")]
+[Authorize(Roles = "Admin")]
 public class CategoryController : Controller
 {
     private readonly IUnitOfWork _unitOfWork;
@@ -108,4 +111,5 @@ public class CategoryController : Controller
         return RedirectToAction("Index");
     }
 }
+
 
